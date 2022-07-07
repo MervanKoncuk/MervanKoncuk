@@ -3,7 +3,7 @@
 ![I am a Web Developer](https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg)
 
 
-Skills: HTML / CSS / JS / PYTHON / DJANGO / C# / .NET
+Skills: HTML / CSS / JS / PYTHON / DJANGO 
 
 - 🔭 I’m currently working on my life 
 - 📫 How to reach me: mervankoncuk@gmail.com 
