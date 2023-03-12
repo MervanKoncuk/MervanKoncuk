@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mervan
 #### I am a Web Developer
-![I am a Web Developer](https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg)
+![I am a Web Developer]
 
 
 Skills: HTML / CSS / JS / PYTHON / DJANGO 
