@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mervan
 #### I am a Web Developer
-![I am a Web Developer]
+
 
 
 Skills: HTML / CSS / JS / PYTHON / DJANGO 
